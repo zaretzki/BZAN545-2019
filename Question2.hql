@@ -1,6 +1,4 @@
 
-#Another Change in Github
-
 #Modify the code below into HiveSQL
 
 CREATE  TABLE IF NOT EXISTS `PRODUCT` (
