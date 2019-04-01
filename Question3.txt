@@ -1,0 +1,6 @@
+#Open a second shell window and check in the hive directories for the partitioned table.
+#Give the long output of ls for that file (ls-l)
+
+
+#Write a select statement on the partitioned table selecting for a particular store.  Use a query to #identify a store with a large number of households making transactions.  Use the partitioned table to #determine, within that store, if people with children spend more or less than people without children.
+#Compare the speed of the partitioned query to one on the full table done in part 4).
