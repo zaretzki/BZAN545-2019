@@ -1,3 +1,6 @@
+#Update this file for Github demo
+
+
 #Look at hive_tg_3_27_17.ppt pages 14-15
 #Load the hh_demographic.csv and transactions.csv into hdfs in an appropriate directory.
 #Also load product.csv
